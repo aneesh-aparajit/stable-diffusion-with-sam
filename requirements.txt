@@ -1,0 +1,14 @@
+git+https://github.com/facebookresearch/segment-anything.git
+torch
+torchvision
+
+transformers
+diffusers
+datasets
+accelerate
+
+opencv-python 
+pycocotools 
+matplotlib
+onnx
+gradio
